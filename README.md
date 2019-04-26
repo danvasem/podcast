@@ -1,6 +1,6 @@
 # App de Podcasts
 
-![Captur de la App](./.readme-static/captura.png)
+![Captur de la App](./.readme-static/app.png)
 
 ## ¿Cómo funciona?
 
