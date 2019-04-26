@@ -2,6 +2,8 @@
 
 ![Captur de la App](./.readme-static/app.png)
 
+[Ver la aplicación](https://quantik-podcast-2-4pjeghs81.now.sh/)
+
 ## ¿Cómo funciona?
 
 Requiere Node.JS 10

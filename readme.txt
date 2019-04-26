@@ -24,4 +24,8 @@ NOTA: Si queremos utilizar una función que no está en node.js, podemos intenta
 
 * Para publicar la aplicaicón en NOW
     npm install -g now
+    Seguir los pasos de https://zeit.co/guides/deploying-nextjs-with-now
+    posteriormente ir a la carpeta donde se instalan los paquetes globales de npm y copiar los archivos "now.cmd" y "now" a la carpeta local
+    Ejecutar desde el explorador de windows "now.cmd" y esperar a la publicacion
+    Si no se puede desinstalar el paquete global now, entonces se debe ir a la ruta donde se instalan los paquetes globales y borrar "now.cmd" y "now" y posteriormente ejecutar nuevamente la desinstalación.
     Lugo de instalar lo anterior, ejecutar: now --public
